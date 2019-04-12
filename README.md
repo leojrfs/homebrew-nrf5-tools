@@ -1,6 +1,6 @@
 # homebrew-nrf5-tools
 
-This repository contains the [nrf5 SDK](https://www.nordicsemi.com/DocLib/Content/SDK_Doc/nRF5_SDK/v15-2-0/index) compatible GNU Toolchain for ARM Embedded Processors as formulae for [Homebrew](http://brew.sh).
+This repository contains the [nrf5 SDK](https://www.nordicsemi.com/DocLib/Content/SDK_Doc/nRF5_SDK/v15-3-0/index) compatible GNU Toolchain for ARM Embedded Processors as formulae for [Homebrew](http://brew.sh).
 
 ## About
 
